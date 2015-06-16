@@ -1,0 +1,1027 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"get",
+				"getWarnings"
+			],
+			[
+				"uNa",
+				"uName"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"time",
+				"timeseg"
+			],
+			[
+				"ob",
+				"obtn"
+			],
+			[
+				"cur",
+				"currentWith"
+			],
+			[
+				"img",
+				"imglength"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"to",
+				"toArray	.toArray()"
+			],
+			[
+				"course",
+				"courseid"
+			],
+			[
+				"cour",
+				"courseid"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"sit",
+				"sitedetail"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"togg",
+				"toggle	.toggle()"
+			],
+			[
+				"toggl",
+				"toggle	.toggle()"
+			],
+			[
+				"att",
+				"attachHtml"
+			],
+			[
+				"oC",
+				"oClear"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cr",
+				"createTextNode"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"show",
+				"showText"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cre",
+				"createElements"
+			],
+			[
+				"cl",
+				"colspan	Attr"
+			],
+			[
+				"top",
+				"top2"
+			],
+			[
+				"le",
+				"left2"
+			],
+			[
+				"car",
+				"carcoursename"
+			],
+			[
+				"carcou",
+				"carcoursename"
+			],
+			[
+				"couse",
+				"course_name"
+			],
+			[
+				"cous",
+				"coursename"
+			],
+			[
+				"coursen",
+				"courseNo"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"appen",
+				"appenddata"
+			],
+			[
+				"ty",
+				"tyear"
+			],
+			[
+				"sql",
+				"sql2"
+			],
+			[
+				"Newc",
+				"NewsContent"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"edi",
+				"editInfo"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"clas",
+				"classno"
+			],
+			[
+				"tem",
+				"timeseg"
+			],
+			[
+				"tim",
+				"timeseg"
+			],
+			[
+				"selc",
+				"selecttime"
+			],
+			[
+				"course_n",
+				"Course_name"
+			],
+			[
+				"cours",
+				"courseweeknum"
+			],
+			[
+				"courset",
+				"Coursetime"
+			],
+			[
+				"ti",
+				"time2"
+			],
+			[
+				"class",
+				"classSite"
+			],
+			[
+				"my",
+				"mySql0"
+			],
+			[
+				"ADD_PRINT_",
+				"ADD_PRINT_TEXT"
+			],
+			[
+				"sty",
+				"stylestr"
+			],
+			[
+				"lodop",
+				"LODOP"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tab",
+				"tabName"
+			],
+			[
+				"data",
+				"dataInfo"
+			],
+			[
+				"p",
+				"post	$.post()"
+			],
+			[
+				"term",
+				"termtime"
+			],
+			[
+				"inser",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"ajaxst",
+				"ajaxstop	$.ajaxStop()"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"c",
+				"currentNum"
+			],
+			[
+				"Re",
+				"RecruitmentSet"
+			],
+			[
+				"check",
+				"checkBoxArr"
+			],
+			[
+				"ch",
+				"checkBoxArr"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"un",
+				"uName"
+			],
+			[
+				"uName",
+				"uName1"
+			],
+			[
+				"tp",
+				"tpassword"
+			],
+			[
+				"rs",
+				"rs0"
+			],
+			[
+				"sq",
+				"sql0"
+			],
+			[
+				"new",
+				"newConfirmPwd"
+			],
+			[
+				"te",
+				"testlength"
+			],
+			[
+				"obj",
+				"objc1"
+			],
+			[
+				"resu",
+				"result1"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"res",
+				"result1"
+			],
+			[
+				"resulta",
+				"result1Array"
+			],
+			[
+				"r",
+				"result2"
+			],
+			[
+				"resut",
+				"result1"
+			],
+			[
+				"Course",
+				"CourseArrangeSet"
+			],
+			[
+				"cou",
+				"courseid3"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"not",
+				"nothing"
+			],
+			[
+				"per",
+				"percent1"
+			],
+			[
+				"stu",
+				"studentNO"
+			],
+			[
+				"percen",
+				"percentNow"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"skdd",
+				"skddSelectType"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"distinc",
+				"distinction"
+			],
+			[
+				"Ter",
+				"Term_time"
+			],
+			[
+				"ac",
+				"academy1"
+			],
+			[
+				"dis",
+				"distinction"
+			],
+			[
+				"dist",
+				"distinct"
+			],
+			[
+				"tc",
+				"tcoursetype"
+			],
+			[
+				"T",
+				"Tcurrent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Admin/AdminHomeController.php",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/Laravel",
+		"/D/Projects/Laravel/app",
+		"/D/Projects/Laravel/app/Http",
+		"/D/Projects/Laravel/app/Http/Controllers",
+		"/D/Projects/Laravel/app/Http/Controllers/Admin",
+		"/D/Projects/Laravel/resources/assets/less",
+		"/D/Projects/Laravel/resources/assets/less/bootstrap",
+		"/D/Projects/Laravel/resources/views"
+	],
+	"file_history":
+	[
+		"/D/Projects/Laravel/app/Http/Controllers/Admin/DeviceController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/Controllers/Admin/AdminHomeController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/Controllers/HomeController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/Controllers/Admin/PagesController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/Controllers/PagesController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/routes.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Http/Controllers/Admin/CommentsController.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Article.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Comment.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/Page.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/app/User.php",
+		"/D/Projects/Laravel/resources/views/AdminHome.blade.php",
+		"/D/Projects/Laravel/app/Http/Controllers/Admin/AdminHomeController.php",
+		"/D/Projects/Laravel/database/migrations/2015_06_15_083858_create_devices_table.php",
+		"/D/Projects/Laravel/resources/views/home.blade.php",
+		"/D/Projects/Laravel/resources/views/app.blade.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/resources/views/AdminHome.blade.php",
+		"/D/Projects/Laravel/resources/views/welcome.blade.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/resources/views/_layouts/default.blade.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/resources/views/home.blade.php",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/resources/views/app.blade.php",
+		"/D/Projects/Laravel/public/css/app.css",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/public/css/app.css",
+		"/D/Projects/files/file_8/Learn-Laravel-5-master/resources/views/admin/comments/edit.blade.php",
+		"/D/Projects/Laravel/database/migrations/2015_06_15_080051_create_devices_table.php",
+		"/D/Projects/Laravel/app/Http/routes.php",
+		"/D/Projects/Laravel/database/seeds/DeviceTableSeeder.php",
+		"/D/Projects/files/file_2/laravel/app/Http/routes.php",
+		"/D/Projects/Laravel/database/seeds/DatabaseSeeder.php",
+		"/D/Projects/Laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Projects/Laravel/app/device.php",
+		"/D/Projects/Laravel/.env",
+		"/D/Projects/files/file_1/sample_1.html",
+		"/D/Projects/files/file_8/index.html",
+		"/D/Projects/wordpress/wp-content/themes/organization/header.php",
+		"/D/Projects/wordpress/wp-content/themes/organization/footer.php",
+		"/D/Projects/wordpress/wp-content/themes/organization/page.php",
+		"/D/Projects/wordpress/wp-content/themes/organization/index.php",
+		"/D/Projects/wordpress/wp-content/themes/organization/css/style.css",
+		"/C/Users/Rain/Desktop/answsers %281%29.html",
+		"/D/Projects/wordpress/wp-content/themes/organization/style.css",
+		"/D/Projects/files/file_7/moban473/moban473/css/style.css",
+		"/D/Projects/files/file_7/moban473/moban473/index.html",
+		"/D/Projects/files/file_6/PHP-Serial-develop/examples/dummy.php",
+		"/D/Projects/files/file_6/PHP-Serial-develop/src/PhpSerial.php",
+		"/D/Projects/files/file_6/PHP-Serial-develop/examples/sms.php",
+		"/D/Projects/files/file_6/PHP-Serial-develop/examples/index.php",
+		"/D/Projects/files/file_6/main.php",
+		"/D/Projects/files/file_6/php_serial.class.php",
+		"/D/Projects/files/file_6/Highcharts-4.1.5/examples/line-time-series/index.htm",
+		"/D/Projects/files/file_6/Highcharts-4.1.5/examples/line-ajax/index.htm",
+		"/D/Projects/files/file_6/Highcharts-4.1.5/examples/line-log-axis/index.htm",
+		"/D/Projects/files/file_6/Highcharts-4.1.5/examples/line-basic/index.htm",
+		"/D/Projects/wordpress/wp-content/themes/twentythirteen/functions.php",
+		"/D/Projects/wordpress/wp-content/themes/twentythirteen/post-type.php",
+		"/D/Projects/wordpress/wp-content/plugins/hello.php",
+		"/D/Projects/wordpress/wp-content/plugins/employee/employee.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/header.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/footer.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/sidebar.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/index.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/404.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/function.php",
+		"/D/Projects/wordpress/wp-content/themes/eatme/css/default.css",
+		"/D/Projects/wordpress/wp-content/themes/wordpress170/includes/shortcode.php",
+		"/D/Projects/Discuz_X2.5/template/moke8_mofang/portal/list_qing.htm",
+		"/D/Projects/Discuz_X2.5/template/moke8_mofang/portal/view.htm",
+		"/D/Projects/Discuz_X2.5/portal.php",
+		"/D/Projects/Discuz_X2.5/source/function/function_portal.php",
+		"/D/Projects/Discuz_X2.5/template/moke8_mofang/portal/index.htm",
+		"/C/Users/Rain/Desktop/2.html",
+		"/C/Users/Rain/Desktop/Bracket1.5/Bracket1.5/alerts.html",
+		"/D/Projects/zbyx/system/common/navigation.asp",
+		"/D/Projects/zbyx/system/common/footer.asp",
+		"/D/Projects/files/file_3/website/.env.example",
+		"/D/Projects/files/file_3/website/.env",
+		"/D/Projects/zbyx/index.asp",
+		"/D/Projects/zbyx/system/admin/AdminIndex.asp",
+		"/D/Projects/zbyx/system/common/header.asp",
+		"/D/Projects/storage/ueditor1_4_3-utf8-asp/ueditor1_4_3-utf8-asp/index.html",
+		"/D/Projects/zbyx/system/admin/Administrator/css/style.css",
+		"/C/Users/Rain/Desktop/Bracket1.5/Bracket1.5/index.html",
+		"/D/Projects/zbyx/system/admin/Administrator/css/global.css",
+		"/C/Users/Rain/Desktop/Bracket1.5/Bracket1.5/css/style.default.css",
+		"/D/Projects/files/file_3/website/app/Http/routes.php",
+		"/D/Projects/files/file_3/website/app/Http/Controllers/Controller.php",
+		"/D/Projects/files/file_3/website/app/Http/Controllers/HomeController.php",
+		"/D/Projects/files/file_3/website/app/Http/Controllers/WelcomeController.php",
+		"/D/Program Files/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/D/Projects/files/file_3/website/resources/views/home.blade.php",
+		"/D/Projects/files/file_3/website/bootstrap/app.php",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/dev-main.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/dev-storage.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/dev-users.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/dev-manage.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/dev-map.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/tables.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/css/bootstrap-override.css",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/css/style.default.css",
+		"/D/Projects/animation.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/main.html",
+		"/D/Projects/笔试题/1",
+		"/D/Projects/getClass.js",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/index.html",
+		"/C/Users/Rain/Desktop/模板/Bracket1.5/Bracket1.5/blank.html",
+		"/C/Users/Rain/Desktop/项目2/chahua3211/index.html",
+		"/D/Program Files/goagent-goagent-ddc0706/local/proxy.ini",
+		"/C/Users/Rain/Desktop/项目2/chahua3211/tables.html",
+		"/C/Users/Rain/Desktop/项目2/chahua3211/assets/javascripts/demo/charts.js",
+		"/C/Users/Rain/Desktop/项目2/chahua3211/assets/javascripts/demo/inplace_editing.js",
+		"/C/Users/Rain/Desktop/项目2/chahua3211/charts.html",
+		"/C/Users/Rain/Desktop/模板/AdminLTE-2.0.4 - 副本/pages/tables/data.html",
+		"/C/Users/Rain/Desktop/模板/AdminLTE-2.0.4/pages/tables/data.html",
+		"/D/Projects/Git/Students/StudentIndex.asp",
+		"/D/Projects/Git/Students/DetailExample.asp",
+		"/D/Projects/Git/Students/putSession3.asp",
+		"/D/Projects/Git/Administrator/AdminIndex.asp",
+		"/D/Projects/Git/Teachers/TeacherIndex.asp",
+		"/D/Projects/Git/Teachers/css/style.css",
+		"/D/Projects/Git/Teachers/js/script.js",
+		"/D/Projects/Git/Administrator/header.asp",
+		"/D/Projects/Git/Teachers/Header.asp",
+		"/D/Projects/Git/Students/css/style.css",
+		"/D/Projects/Git/Teachers/css/global.css",
+		"/D/Projects/Git/Students/js/jquery.flexisel.js",
+		"/D/Projects/Git/Students/PrintTable.asp",
+		"/D/Projects/Git/Students/Footer.asp",
+		"/D/Projects/Git/Students/Header.asp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page",
+			"gritter",
+			"growl1",
+			"danger",
+			"alert",
+			"dark",
+			"danger",
+			"dark",
+			"label",
+			"mt10",
+			"设备编号",
+			"project",
+			"LoadModule rewrite_module modules/mod_rewrite.so",
+			"Require local",
+			"override",
+			"directory",
+			"allowoverride",
+			"allow",
+			"from ",
+			"AllowOverride",
+			"漫溯",
+			"主",
+			"主页",
+			"mb",
+			"设备编号",
+			"list-group-item",
+			"主页",
+			"main.html",
+			"系统",
+			"success",
+			"锅炉",
+			"&#176;C",
+			"锅炉",
+			"176",
+			"200",
+			"icon-star",
+			"便携终端",
+			"stats-chart3",
+			"console",
+			"width",
+			"txtUserName",
+			"navbar-collapse",
+			"container",
+			"navbar",
+			"fixed",
+			"文档",
+			"设备",
+			"fa-gear",
+			"gear",
+			"Task",
+			"alex",
+			"More info",
+			"dashb",
+			"dashboard",
+			"online",
+			"search",
+			"yon",
+			"accordion",
+			"b1",
+			"delStuSave",
+			"round",
+			"picker-position",
+			"position",
+			"parseInt",
+			"bClear",
+			"oper",
+			"num1",
+			"tnum",
+			"tResult",
+			"ms",
+			"moreinfo",
+			"b1",
+			"a1",
+			"$content",
+			"jz",
+			"JZ",
+			"disabled",
+			"name",
+			"um",
+			"icon",
+			"top",
+			"padding",
+			"();\n",
+			"input",
+			"clickdetail",
+			"submitbtn",
+			"editor",
+			"D:\\Projects\\LJ\\Git\\",
+			"Areano_all",
+			"blank",
+			"55",
+			"term",
+			"ter",
+			"courseweekday",
+			"replaceContent",
+			"score",
+			"sql0",
+			"adminterm",
+			"term1set",
+			"upgradesysset",
+			"upgrade",
+			"select_lt",
+			"jumpto",
+			";\n",
+			"classsite",
+			"Modal",
+			"courseModal",
+			"courseid",
+			"DocumentRoot",
+			"directory",
+			"DocumentRoot",
+			"<input type=\"text\"  class=\"form-control input-sm datePicker\" style=\"width:80px;\">",
+			"submitCourse",
+			";\">",
+			"DocumentRoot",
+			"search",
+			"fee",
+			"feedback",
+			"courseid",
+			"yon",
+			"cur",
+			"delLabel",
+			"skdd",
+			"courseid",
+			"moreinfo",
+			"resourse",
+			"#editor",
+			"editor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Admin/AdminHomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
