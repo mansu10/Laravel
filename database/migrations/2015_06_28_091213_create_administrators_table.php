@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateDevicesTable extends Migration {
+class CreateAdministratorsTable extends Migration {
 
 	/**
 	 * Run the migrations.
@@ -12,9 +12,14 @@ class CreateDevicesTable extends Migration {
 	 */
 	public function up()
 	{
-		Schema::create('devices', function(Blueprint $table)
+		Schema::create('administrators', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->integer('userid');
+			$table->string('username');
+			$table->string('email');
+			$table->string('password');
+			$table->string('remark');
 			$table->timestamps();
 		});
 	}
@@ -26,7 +31,7 @@ class CreateDevicesTable extends Migration {
 	 */
 	public function down()
 	{
-		Schema::drop('devices');
+		Schema::drop('administrators');
 	}
 
 }

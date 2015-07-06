@@ -1,25 +1,21 @@
-@extends('app')
+@extends('_layout')
 
 @section('content')
-<div class="container">
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <div class="panel panel-default">
-        <div class="panel-heading">后台首页</div>
-
-        <div class="panel-body">
-          <div class="content">
-              <p>yaps</p>
-              @foreach ($devices as $device)
-                <hr>
-                <div>
-                  <h4>{{ $device->uid }}</h4>
-                  <p></p>
-                </div>
-              @endforeach  
-          </div>
+<div class="page-header">
+    <p>breadcrumb</p>
+</div>
+<div class="content-panel">
+    <div class="item-wrapper">
+        <p>yaps</p>
+        @foreach ($devices as $device)
+        <div class="item-list">
+            <div class="item-detail">
+                <h4>{{ $device->uid }}</h4>
+                <a href="{{ url('/admin/devices/detail/'.$device->uid) }}">link</a>
+                <p>describtion</p>
+            </div>
         </div>
-      </div>
+         @endforeach
     </div>
-  </div>
-  @endsection
+</div>
+@endsection

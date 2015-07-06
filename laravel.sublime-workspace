@@ -578,10 +578,7 @@
 		"/D/Projects/Laravel/app",
 		"/D/Projects/Laravel/app/Http",
 		"/D/Projects/Laravel/app/Http/Controllers",
-		"/D/Projects/Laravel/app/Http/Controllers/Admin",
-		"/D/Projects/Laravel/resources/assets/less",
-		"/D/Projects/Laravel/resources/assets/less/bootstrap",
-		"/D/Projects/Laravel/resources/views"
+		"/D/Projects/Laravel/app/Http/Controllers/Admin"
 	],
 	"file_history":
 	[

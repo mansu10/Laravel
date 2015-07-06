@@ -1,0 +1,232 @@
+/*
+ *
+ *
+ *
+ *
+ *
+ */
+
+/*
+ |----------------------------------------------------------------|
+ |                                                                |
+ |                                                                |
+ |                                                                |
+ |                                                                |
+ |----------------------------------------------------------------|
+*/
+
+/********** 1. IMPORT FILES **********/
+/*************************************/
+
+@import url(font-awesome.css);
+
+/********** 2. RESET STYLES **********/
+/*************************************/
+
+/* 清除内外边距 */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, /* structural elements 结构元素 */
+dl, dt, dd, ul, ol, li, /* list elements 列表元素 */
+pre, /* text formatting elements 文本格式元素 */
+fieldset, lengend, button, input, textarea, /* form elements 表单元素 */
+th, td { /* table elements 表格元素 */
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+body {
+    font-family: '微软雅黑','LatoRegular', 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, sans-serif !important;
+    line-height: 21px;
+    color: #636e7b;
+}
+
+body.notfound,
+body.signin {
+    background: #e4e7ea;
+}
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+input,select,textarea {
+    font-family: '微软雅黑','LatoRegular', 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, sans-serif !important;
+    color: #636e7b;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:focus, a:active { outline: none; }
+
+h1,h2,h3,h4,h5 {
+    font-family: '微软雅黑','LatoRegular', 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, sans-serif;
+}
+
+strong {
+    font-family: '微软雅黑','LatoBold';
+    font-weight: normal;
+}
+
+ul {
+	list-style: none;
+}
+
+/********** 2. Left Panel ************/
+/*************************************/
+.left-panel {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #e7e7e7;
+	height: 100%;
+	width: 240px;
+}
+
+.logo-panel {
+	overflow: hidden;
+	border-bottom: 1px solid #eee;
+	background-color: #fff;
+}
+
+.logo-panel .logo {
+	height: 50px;
+	line-height: 50px;
+	width: 189px;
+	float: left;
+}
+
+.logo-panel .bars {
+	width: 50px;
+	height: 50px;
+	border-left: 1px solid #eee;
+	float: right;
+	line-height: 50px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.logo-panel .bars:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.collapse .logo-panel .logo {
+	display: none;
+}
+
+.collapse .left-panel {
+	width: 50px;
+	overflow: hidden;
+}
+
+.collapse .left-panel .side-nav a>span {
+	display: none;
+}
+
+.collapse .main-panel {
+	margin-left: 50px;
+}
+
+.side-nav li {
+	border-bottom: 1px solid #eee;
+}
+
+.side-nav li a {
+	display: block;
+	padding: 14px;
+}
+
+.side-nav li i {
+	width: 50px;
+}
+
+
+/********** 3. Main Panel ************/
+/*************************************/
+
+.main-panel {
+	margin-left: 240px;
+	border-left: 1px solid #eee;
+}
+
+.header-bar {
+	overflow: hidden;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+}
+
+.user-account {
+	float: right;
+	height: 50px;
+}
+
+.user-account:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.user-account li {
+	float: left;
+}
+
+.user-account > li {
+	padding: 10px 5px;
+	border-left: 1px solid #eee;
+	height: 50px;
+}
+
+.user-account .dropdown ul {
+	display: none;
+}
+
+.page-header {
+	height: 50px;
+	border-bottom: 1px solid #eee;
+	line-height: 50px;
+	padding: 0 10px;
+}
+
+/********** 3. Content Panel *********/
+/*************************************/
+
+.item-wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.item-wrapper::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.item-list {
+	width: 20%;
+	float: left;
+	padding: 10px;
+}
+
+.item-detail {
+	width: 100%;
+	height: 150px;
+	/*border-radius: 50%;*/
+	background-color: #eee;
+	overflow: hidden;
+	text-align: center;
+}
+
+.borders {
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid #eee;
+}
